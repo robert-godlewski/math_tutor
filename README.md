@@ -1,0 +1,43 @@
+# Math tools need
+List of things to develop for this program
+
+- [ ] Arithmetic
+   - [ ] Addition
+   - [ ] Subtraction
+   - [ ] Multiplication
+   - [ ] Division
+   - [ ] Fractions
+- [ ] Linear Algebra
+   - [ ] N-Dimensional Vectors
+   - [ ] Distance between vectors
+   - [ ] Projection onto a plane
+   - [ ] Matrices
+   - [ ] Matrix multiplication, addiction, subtraction, and transpose
+   - [ ] Orthogonality
+   - [ ] EigenValues and EigenVectors
+   - [ ] Singular Value Decomposition
+- [ ] Probability
+   - [ ] Simple
+   - [ ] Conditional Probability and Bayes Theorem
+   - [ ] Random Variables
+   - [ ] Probability Distribution
+   - [ ] Continuous and Discrete Distribution
+   - [ ] Popular Distribution Functions - Gaussian, Skewed, Non-skewed
+- [ ] Statistics
+   - [ ] Mean
+   - [ ] Median
+   - [ ] Mode
+- [ ] Calculus
+   - [ ] Basics of Function
+   - [ ] Continuous and Discrete Functions
+   - [ ] Basics of Differentiation
+   - [ ] Composite Function and Chain Rule
+   - [ ] Partial Derivatives
+   - [ ] Fourier Series
+   - [ ] Matrix Differentiation
+- [ ] Graphs
+   - [ ] Linear Function and Equations
+   - [ ] Non-linear and discrete graph formation
+   - [ ] Parabolic Equations
+   - [ ] Higher-order polynomials and exponentials
+   - [ ] Functions like Tanh, Sigmoid, Relu, custom graphical forms
