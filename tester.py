@@ -27,5 +27,7 @@ class Tester:
 if __name__ == '__main__':
     print("Running tester.py")
     tester = Tester()
-    print(tester.is_addition_true(1,1,2))
-    print(tester.is_addition_true(5,1,5))
+    print(f"1 + 1 = 2? {tester.is_addition_true(1,1,2)}")
+    print(f"5 + 1 = 5? {tester.is_addition_true(5,1,5)}")
+    print(f"5 - 2 = 3? {tester.is_subtraction_true(5,2,3)}")
+    print(f"1 - 1 = 1? {tester.is_subtraction_true(1,1,1)}")
